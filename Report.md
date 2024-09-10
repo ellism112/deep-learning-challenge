@@ -1,6 +1,6 @@
 ## Overview of the Analysis
 
-The purpose of this project was to create a tool for the nonprofit foundation, Alphabet Soup, that can assist in selecting the applicants for funding with the best chance of success in their ventures.
+The purpose of this project was to create a tool for nonprofit foundation, Alphabet Soup, that can assist in selecting the applicants for funding with the best chance of success in their ventures.
 
 ## Results
 
@@ -9,7 +9,6 @@ The purpose of this project was to create a tool for the nonprofit foundation, A
     - The target variable for this dataset was the IS_SUCCESSFUL column.
 - What variable(s) are the features for your model?
     - The following variables are the features for our model:
-      * NAME
       * APPLICATION_TYPE
       * AFFILIATION
       * CLASSIFICATION
@@ -30,13 +29,9 @@ The purpose of this project was to create a tool for the nonprofit foundation, A
         * Output Layer: 1 neuron
     - Number of Layers:
         * The model has three layers: one input layer, two hidden layers, and one output layer.
-    - Activation Functions:
-        *
-  - Were you able to achieve the target model performance?
+ - Were you able to achieve the target model performance?
     - No, I was not able to achieve the 75% model accuracy target
 
 
 ## Summary
 The deep learning model achieved an accuracy of about 73%. Higher prediction accuracy could be achieved by doing additional data cleaning as well as by adjusting learning rates and trying different optimizers.
-
-The loss value of 0.5224 suggests that the model's performance in terms of minimizing errors during training was moderate.
