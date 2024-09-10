@@ -32,10 +32,11 @@ The purpose of this project was to create a tool for the nonprofit foundation, A
         * The model has three layers: one input layer, two hidden layers, and one output layer.
     - Activation Functions:
         *
+  - Were you able to achieve the target model performance?
+    - No, I was not able to achieve the 75% model accuracy target
 
 
 ## Summary
+The deep learning model achieved an accuracy of about 73%. Higher prediction accuracy could be achieved by doing additional data cleaning as well as by adjusting learning rates and trying different optimizers.
 
-* The model achieved an accuracy of 73.88%, indicating that it correctly predicted the class of the data points nearly 74% of the time.
-* The loss value of 0.5224 suggests that the model's performance in terms of minimizing errors during training was moderate.
-* Since the accuracy is around 73.88%, there is room for improvement. Hyperparameter tuning may improve the model's performance. Techniques like adjusting learning rates, trying different optimizers, or modifying the network architecture could help enhance the model's accuracy.
+The loss value of 0.5224 suggests that the model's performance in terms of minimizing errors during training was moderate.
