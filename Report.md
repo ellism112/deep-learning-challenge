@@ -23,16 +23,15 @@ The purpose of this project was to create a tool for the nonprofit foundation, A
     - The variables NAME and EIN were removed from the input data.
 
 ### Compiling, Training, and Evaluating the Model
-
-Number of Neurons:
-* First Hidden Layer: 80 neurons
-* Second Hidden Layer: 30 neurons
-* Output Layer: 1 neuron
-
-Number of Layers:
-* The model has three layers: one input layer, two hidden layers, and one output layer.
-
-Activation Functions:
+- How many neurons, layers, and activation functions did you select for your neural network model, and why?
+    - Number of Neurons:
+        * First Hidden Layer: 8 neurons
+        * Second Hidden Layer: 5 neurons
+        * Output Layer: 1 neuron
+    - Number of Layers:
+        * The model has three layers: one input layer, two hidden layers, and one output layer.
+    - Activation Functions:
+        *
 
 
 ## Summary
